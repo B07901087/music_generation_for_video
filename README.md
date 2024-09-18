@@ -2,13 +2,17 @@ For this project, we proposed a framework to generate music given a video withou
 ![Porposed framework](./framework)
 
 Here are some demos:
-[demo1](https://github.com/user-attachments/assets/1b053cdf-6d4e-4d51-affc-f261e438b7cf)
-[demo2](./out_brief_Q29.mp4)
-[demo3](./out_brief_Q80.mp4)
+
+https://github.com/user-attachments/assets/1b053cdf-6d4e-4d51-affc-f261e438b7cf
+
+
+
+https://github.com/user-attachments/assets/96effb77-07eb-4eb4-bd03-5c6a40d14f83
+
+
+
+https://github.com/user-attachments/assets/e5be0204-83bc-4d9d-a986-de604c3f624b
 
 
 
 
-
-
-<!-- [![Youtube Video](xxx.jpg)](https://www.youtube.com/watch?v=xxx) -->
