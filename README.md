@@ -1,5 +1,6 @@
 For this project, we proposed a framework to generate music given a video without background music. We combined MusicGen and Blip2 models to achieve this. 
-![Porposed framework](./framework)
+
+<img width="841" alt="Proposed framework" src="https://github.com/user-attachments/assets/831f0511-2407-4cba-9992-ee7b8a1e974e">
 
 Here are some demos:
 
